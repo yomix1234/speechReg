@@ -1,0 +1,8 @@
+
+nltk
+pyttx3==2.90
+speechrecognition==3.10.o
+PyAudio==0.2.13
+
+streamlit==1.21.0
+
